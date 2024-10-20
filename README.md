@@ -21,6 +21,19 @@ Here are some previews of the platform:
 
 
 
+
+
+
+
+<img width="1680" alt="Screenshot 2024-10-20 at 5 24 02 PM" src="https://github.com/user-attachments/assets/df89bc19-0489-4eca-99ae-56966be4edc0">
+<img width="1680" alt="Screenshot 2024-10-20 at 5 24 30 PM" src="https://github.com/user-attachments/assets/6c713c81-d5f8-43a1-a440-36cd2628b854">
+<img width="1680" alt="Screenshot 2024-10-20 at 5 24 42 PM" src="https://github.com/user-attachments/assets/9a9cec51-f1c0-4b67-9ee4-71e49d7fa611">
+<img width="1680" alt="Screenshot 2024-10-20 at 5 24 48 PM" src="https://github.com/user-attachments/assets/e6178197-c4a6-4bc7-a15a-4871aa9a721a">
+<img width="1680" alt="Screenshot 2024-10-20 at 5 25 04 PM" src="https://github.com/user-attachments/assets/35e09a28-ed17-4419-9a05-2e0defabcb95">
+<img width="1680" alt="Screenshot 2024-10-20 at 5 25 16 PM" src="https://github.com/user-attachments/assets/13f09073-785d-430e-a294-2ff111dd6812">
+<img width="1680" alt="Screenshot 2024-10-20 at 5 25 35 PM" src="https://github.com/user-attachments/assets/074ae80a-3867-4f12-ad1a-736c26bbc33e">
+
+
 ## Getting Started
 
 If you're interested in improving your athletic performance or simply staying fit, follow the steps below to get started:
