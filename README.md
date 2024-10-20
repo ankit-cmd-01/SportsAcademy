@@ -1,4 +1,4 @@
-# [Academy Name] Sports Hub
+# SportsAcademy Sports Hub
 
 Welcome to **[Academy Name]**, your go-to platform for developing athletes of all levels! Our academy offers top-notch training across a variety of sports, including:
 
